@@ -1,2 +1,3 @@
 *.txt
 //emptyy.txt
+!abc.txt
